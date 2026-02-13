@@ -1,0 +1,12 @@
+# vscode configs
+Code/
+!Code/User/settings.json
+
+# miscellaneous directories
+go
+dconf
+yay
+pulse
+
+# firefox configs
+mozilla/
