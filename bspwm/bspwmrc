@@ -12,5 +12,5 @@ bspc config borderless_monocle   true
 bspc config gapless_monocle      true
 
 sxhkd &
-polybar &
+$HOME/.config/polybar/launch.sh &
 picom --config $HOME/.config/picom/picom.conf &
