@@ -10,3 +10,7 @@ pulse
 
 # firefox configs
 mozilla/
+
+# neovim/nvchad grabage
+bob
+nvim/lazy-lock.json
